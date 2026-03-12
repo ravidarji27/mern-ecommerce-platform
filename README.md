@@ -1,5 +1,5 @@
 
-PORTFOLIO MERN ECOMMERCE
+MERN ECOMMERCE
 
 Features
 - JWT Authentication
